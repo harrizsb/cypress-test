@@ -1,6 +1,9 @@
 # cypress-test
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains a prototype of file upload using vuejs, pinia for state management, and tailwind for css. Along with them, component unit test and e2e testing has been integrated. The test scenario is quite simple:
+* Do user login
+* Then upload by drag and drop or file picker
+* Verify the list rendered based on the file uploaded
 
 ## Recommended IDE Setup
 
